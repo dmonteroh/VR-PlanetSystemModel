@@ -1,0 +1,4 @@
+# Starting compiling Unity.Toolchain.Win-x86_64-Linux-x86_64.dll
+D:\Unity\2020.3.1f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f25837f40a4df2447ba9dd507ad14e32
+# Starting compiling Assembly-CSharp.dll
+D:\Unity\2020.3.1f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6fb39711efce65940b33ec7af85958d8

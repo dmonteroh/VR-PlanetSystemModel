@@ -1,0 +1,405 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 65374 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Projects/Unity/UTU_MR_3-MONTERO
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55987
+Successfully changed project path to: D:/Projects/Unity/UTU_MR_3-MONTERO
+D:/Projects/Unity/UTU_MR_3-MONTERO
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.67 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/Unity/UTU_MR_3-MONTERO/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001371 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 30.79 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.305 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001867 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.98 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1713 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 101.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2177.
+Total: 2.401100 ms (FindLiveObjects: 0.426600 ms CreateObjectMapping: 0.195900 ms MarkObjects: 1.731800 ms  DeleteObjects: 0.045400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Planetarium/EllipseRenderer.cs
+  artifactKey: Guid(9a507f48dc2c8fb46aef3e5a6a8afccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Planetarium/EllipseRenderer.cs using Guid(9a507f48dc2c8fb46aef3e5a6a8afccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eaee710eb249429593f8b6ea70bc1a3') in 0.031154 seconds
+  Import took 0.034787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006928 seconds.
+  path: Assets/Scripts/Planetarium/Ellipse.cs
+  artifactKey: Guid(108e7e5c907d8a24f96b50ebe9fce025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Planetarium/Ellipse.cs using Guid(108e7e5c907d8a24f96b50ebe9fce025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b26f0571392197e7ade829fbd14b9b0') in 0.004461 seconds
+  Import took 0.007104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002111 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_saturn.mat
+  artifactKey: Guid(fc53c34a09f089e46ad626ca9540709b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_saturn.mat using Guid(fc53c34a09f089e46ad626ca9540709b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6936cc95928c619367138d92ac3891') in 0.080355 seconds
+  Import took 0.083130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005530 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_jupiter.mat
+  artifactKey: Guid(ef9d0b66b3fd5dc4fb4ae1010f4a41c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_jupiter.mat using Guid(ef9d0b66b3fd5dc4fb4ae1010f4a41c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3811762e7bca73889d574072f91a35ad') in 0.011347 seconds
+  Import took 0.014426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002158 seconds.
+  path: Assets/Prefabs/Planetarium/Spheres/Neptune Variant.prefab
+  artifactKey: Guid(3a8bd78ff176490439aef0c20eda02c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Spheres/Neptune Variant.prefab using Guid(3a8bd78ff176490439aef0c20eda02c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405169cc35d6a6e2e44618e2c6123cd2') in 0.029940 seconds
+  Import took 0.032711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003675 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Snap Turn.preset
+  artifactKey: Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Snap Turn.preset using Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e47bb19b8ce84e7f6f4291483904a26') in 0.015595 seconds
+  Import took 0.019503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003188 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions
+  artifactKey: Guid(2ad700fbf41fe634aaf8b4fdd0273162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions using Guid(2ad700fbf41fe634aaf8b4fdd0273162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886bc99314204ef499ead46588cb798e') in 0.004918 seconds
+  Import took 0.008360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010074 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_uranus.mat
+  artifactKey: Guid(79499a038f31bd24eb8062f653389caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_uranus.mat using Guid(79499a038f31bd24eb8062f653389caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192954c631f68097682b819fd766b1ba') in 0.011463 seconds
+  Import took 0.014129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016350 seconds.
+  path: Assets/Prefabs/Hand_poly/hand.mtl
+  artifactKey: Guid(4ee7c1bb5ab2a0f4ca607b1ca7895a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Hand_poly/hand.mtl using Guid(4ee7c1bb5ab2a0f4ca607b1ca7895a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ede01c4670f3b12385fe61decb1407') in 0.011011 seconds
+  Import took 0.014412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022378 seconds.
+  path: Assets/Prefabs/Planetarium/purple_front.png
+  artifactKey: Guid(707e1aebf5defa64a9c30a13548ca308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/purple_front.png using Guid(707e1aebf5defa64a9c30a13548ca308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbb6a7e06e807bc0dac45950e56b84d') in 0.033001 seconds
+  Import took 0.037577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061602 seconds.
+  path: Assets/Prefabs/Planetarium/8k_moon.jpg
+  artifactKey: Guid(92b01e6cf590ad64f8b2de4697a39f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/8k_moon.jpg using Guid(92b01e6cf590ad64f8b2de4697a39f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773d173f1f97ea3420bb9ea4443a144e') in 0.012399 seconds
+  Import took 0.015608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010144 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_neptune.mat
+  artifactKey: Guid(73a7677f385131243a2e2bbc54ac42e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_neptune.mat using Guid(73a7677f385131243a2e2bbc54ac42e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe9398ea91315ea0130967979366faf') in 0.010848 seconds
+  Import took 0.013496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016764 seconds.
+  path: Assets/Prefabs/Planetarium/purple_left.png
+  artifactKey: Guid(4c1c4db8d4854ea469061201c6c8c714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/purple_left.png using Guid(4c1c4db8d4854ea469061201c6c8c714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7561a0d95408307bcdc34d985e8213') in 0.008891 seconds
+  Import took 0.011794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005280 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/XR Device Simulator
+  artifactKey: Guid(55284bca7edce2a409b1ca7b06cd0613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/XR Device Simulator using Guid(55284bca7edce2a409b1ca7b06cd0613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79293fcabdefae76856e27215b93af6') in 0.004319 seconds
+  Import took 0.007499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011634 seconds.
+  path: Assets/Prefabs/Planetarium/purple_back.png
+  artifactKey: Guid(77e9d53cbd39d4c45bf5ad8e9f8c0e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/purple_back.png using Guid(77e9d53cbd39d4c45bf5ad8e9f8c0e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0295bbba653ea8e30af5513434c291') in 0.009746 seconds
+  Import took 0.013078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001924 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/8k_moon.mat
+  artifactKey: Guid(bf2d8f3ff9fa5214e976f8b56df669ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/8k_moon.mat using Guid(bf2d8f3ff9fa5214e976f8b56df669ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd44f63a5eba8ec16417e89f52763d5') in 0.012805 seconds
+  Import took 0.016589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010958 seconds.
+  path: Assets/ResetTableObjects.cs
+  artifactKey: Guid(13941c0211861ec43ac605b27a73b6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ResetTableObjects.cs using Guid(13941c0211861ec43ac605b27a73b6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53d93c7e22fffd4df9fa50f6786cabc') in 0.005540 seconds
+  Import took 0.008592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001936 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_earth_daymap.mat
+  artifactKey: Guid(84b5fc2a49d381d4d9595bfcebaf3550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_earth_daymap.mat using Guid(84b5fc2a49d381d4d9595bfcebaf3550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a1a9fbb7ac1c24904bc48ceaa53505') in 0.011227 seconds
+  Import took 0.014508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001896 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_mars.mat
+  artifactKey: Guid(733db7395f325984199536126d97625c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_mars.mat using Guid(733db7395f325984199536126d97625c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0314d0d9a8b80ff6d4281d18e7a78ef') in 0.009706 seconds
+  Import took 0.012156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003507 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c908b2a66bb8b4eeaa271351293445') in 0.005392 seconds
+  Import took 0.008214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018200 seconds.
+  path: Assets/Prefabs/Planetarium/purple_down.png
+  artifactKey: Guid(d50ee13e840e58045853bd383be5a655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/purple_down.png using Guid(d50ee13e840e58045853bd383be5a655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a910fa4a5a746c6487bdbd91cfad7131') in 0.010482 seconds
+  Import took 0.013074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020190 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/purple.mat
+  artifactKey: Guid(e530c52134990be478dfed42f8ac89e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/purple.mat using Guid(e530c52134990be478dfed42f8ac89e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6481b7197b6fb5098cab9cf6038ed83') in 0.038734 seconds
+  Import took 0.042278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001782 seconds.
+  path: Assets/Prefabs/Planetarium/Spheres/Jupiter Variant.prefab
+  artifactKey: Guid(5f0a748fa7b110c43a893353fc206060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Spheres/Jupiter Variant.prefab using Guid(5f0a748fa7b110c43a893353fc206060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f84470f553a493e3b86914b9e3ab0e') in 0.011089 seconds
+  Import took 0.014208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002124 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_mercury.mat
+  artifactKey: Guid(6c91273df7be6124082f46046719104c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_mercury.mat using Guid(6c91273df7be6124082f46046719104c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd567a4c84fb687a67d33324e989b833') in 0.010639 seconds
+  Import took 0.013898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001929 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Continuous Turn.preset
+  artifactKey: Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Continuous Turn.preset using Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09d58cc048accdd1d8743276cd6fb64') in 0.007643 seconds
+  Import took 0.010663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001372 seconds.
+  path: Assets/Prefabs/Hand_poly
+  artifactKey: Guid(9f93ff35e9237214ca20502d767eaac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Hand_poly using Guid(9f93ff35e9237214ca20502d767eaac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b8a12443f0d6061a755c44cba0d0f7') in 0.004089 seconds
+  Import took 0.006497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001760 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Left Controller.preset
+  artifactKey: Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Left Controller.preset using Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22d945036b1c782c1564b5dbc5254c6') in 0.013159 seconds
+  Import took 0.015754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003347 seconds.
+  path: Assets/Samples/XR Interaction Toolkit
+  artifactKey: Guid(2c2d979584df90a419a1c60b8c1c84aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit using Guid(2c2d979584df90a419a1c60b8c1c84aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8824d0cd0251d5fa7c8f412d009a17fb') in 0.004967 seconds
+  Import took 0.007805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004300 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_venus_surface.mat
+  artifactKey: Guid(10250972200a50e4ab62e132aa1ce1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_venus_surface.mat using Guid(10250972200a50e4ab62e132aa1ce1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab3dcea9456f9be6076113ecd8df10b') in 0.012378 seconds
+  Import took 0.015631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.842641 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Continuous Move.preset
+  artifactKey: Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Continuous Move.preset using Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9bf61680572673419c9895e9196742') in 0.007850 seconds
+  Import took 0.010332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014637 seconds.
+  path: Assets/Prefabs/Planetarium/purple_right.png
+  artifactKey: Guid(d227958234517ce4187d618670db42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/purple_right.png using Guid(d227958234517ce4187d618670db42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1431dc5e8d20c7a13b492a8eccd730d') in 0.009755 seconds
+  Import took 0.012487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002975 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Right Controller.preset
+  artifactKey: Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Right Controller.preset using Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9bbefb24470a8d57c19aa86ec52a6d') in 0.007788 seconds
+  Import took 0.011099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002260 seconds.
+  path: Assets/Prefabs/Planetarium/PlanetCards-Mars.png
+  artifactKey: Guid(4bcb3d80e0fc2c14ba8343f6d2fbb0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/PlanetCards-Mars.png using Guid(4bcb3d80e0fc2c14ba8343f6d2fbb0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724cac6dd45d7a531349eec8a3947810') in 0.011473 seconds
+  Import took 0.014273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002969 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/Solarsystemscope_texture_8k_sun.mat
+  artifactKey: Guid(0cdf2a8cd71a6414f8814683db4ffd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/Solarsystemscope_texture_8k_sun.mat using Guid(0cdf2a8cd71a6414f8814683db4ffd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5146658160107d3096b9deabd8384079') in 0.010371 seconds
+  Import took 0.013988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001595 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7
+  artifactKey: Guid(b6120eeab4d76a04c964831ab1802dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7 using Guid(b6120eeab4d76a04c964831ab1802dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c8052677fce2da6444e93a15cc095b3') in 0.005168 seconds
+  Import took 0.008436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017888 seconds.
+  path: Assets/Prefabs/Planetarium/purple_up.png
+  artifactKey: Guid(cfc62d24d337ee14cbd833262b626267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/purple_up.png using Guid(cfc62d24d337ee14cbd833262b626267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a23ab055145b6835f98c0d8b369cd4') in 0.009621 seconds
+  Import took 0.012503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004507 seconds.
+  path: Assets/Prefabs/Planetarium/Materials/2k_earth_nightmap.mat
+  artifactKey: Guid(c1f2777ae97741b4aacdfe69fa553589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planetarium/Materials/2k_earth_nightmap.mat using Guid(c1f2777ae97741b4aacdfe69fa553589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714892da24edccafffca3c10867479c8') in 0.015891 seconds
+  Import took 0.018746 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002509 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1696 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.6 MB.
+System memory in use after: 101.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2224.
+Total: 1.819400 ms (FindLiveObjects: 0.201200 ms CreateObjectMapping: 0.068800 ms MarkObjects: 1.531700 ms  DeleteObjects: 0.016500 ms)
+
